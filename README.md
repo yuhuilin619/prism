@@ -17,4 +17,4 @@ devtools::install_github("yuhuilin619/prism")
 library("prism")  
 ***  
 ## References:  
-J.Sunil Rao, Erin Kobetz, Huilin Yu, Jordan Baeker-Bispo and Zinzi Bailey (2018) “Person, place and dis- parity: the complex story of racial differences in endometrial cancer survival”.
+J.Sunil Rao, Erin Kobetz, Huilin Yu, Jordan Baeker-Bispo and Zinzi Bailey (2018) "Partially Recursively Induced Structured Moderation (PRISM) for better understanding the complexity of racial differences in endometrial cancer survival".
